@@ -5,3 +5,4 @@ An exploration in Ruby of making US County thematic maps.
 Inspiration / Tutorial
 http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-free-tools/
 
+This is nowhere near done. Currently gets stuck inside the while loop I think.
