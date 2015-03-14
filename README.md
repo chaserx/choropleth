@@ -18,11 +18,3 @@ Labor force data by county: http://www.bls.gov/lau/laucntycur14.txt found at [Bu
 
 1. Modify the script `cleanup.rb` to open the proper raw data file and set outfile path
 1. Run `ruby cleanup.rb` to transform raw data into CSV format
-
-# 2009
-
-<object data="unemployment09.svg" type="image/svg+xml"></object>
-
-# 2014
-
-<object data="unemployment14.svg" type="image/svg+xml"></object>
