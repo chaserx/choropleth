@@ -21,8 +21,8 @@ Labor force data by county: http://www.bls.gov/lau/laucntycur14.txt found at [Bu
 
 # 2009
 
-![](unemployment09.svg)
+<object data="unemployment09.svg" type="image/svg+xml"></object>
 
 # 2014
 
-![](unemployment14.svg)
+<object data="unemployment14.svg" type="image/svg+xml"></object>
