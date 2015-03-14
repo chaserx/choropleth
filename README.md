@@ -14,4 +14,15 @@ http://flowingdata.com/2009/11/12/how-to-make-a-us-county-thematic-map-using-fre
 
 Labor force data by county: http://www.bls.gov/lau/laucntycur14.txt found at [Bureau of Labor Statistics](http://www.bls.gov/lau/#tables).
 
+### Preprocessing / Cleanup
 
+1. Modify the script `cleanup.rb` to open the proper raw data file and set outfile path
+1. Run `ruby cleanup.rb` to transform raw data into CSV format
+
+# 2009
+
+![](unemployment09.svg)
+
+# 2014
+
+![](unemployment14.svg)
